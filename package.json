@@ -1,7 +1,9 @@
 {
   "name": "@fmtk/value-collection",
   "version": "0.1.0",
-  "main": "lib/index.js",
+  "main": "lib/bundle.js",
+  "module": "lib/bundle.esm.js",
+  "types": "lib/index.d.ts",
   "author": "Gordon Leigh <gordon.leigh@futurematik.co.uk>",
   "repository": "https://github.com/futurematik/value-collection",
   "license": "MIT",
